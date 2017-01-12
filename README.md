@@ -19,5 +19,5 @@ Day 3, 2:15 PM - 5:00 PM
 [HTML and CSS]()  
 10:00 AM  - 12:45 PM
 
-[Intro to APIs with the Twitter API]()https://github.com/smythp/twitter-workshop)  
+[Intro to APIs]()https://github.com/smythp/twitter-workshop)  
 2:15 PM - 3:30 PM
