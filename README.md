@@ -4,8 +4,8 @@
 Day 1, 11:30 AM -3:30 PM
 
 [Git](https://github.com/jojokarlin/GitDRI)  
-Day 1, 3:45 PM - 5:0 PM
-Day 2, 10:00 AM - 11:15 AM
+Day 1, 3:45 PM - 5:0 PM  
+Day 2, 10:00 AM - 11:15 AM  
 
 [Python](https://github.com/smythp/intro-python-workshop)  
 Day 2, 11:30 AM - 5:00 PM
