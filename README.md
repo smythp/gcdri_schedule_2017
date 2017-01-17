@@ -1,7 +1,10 @@
 # GC Digital Research Institute Sessions, January 2017
 
+### [Introduction and Installation](https://github.com/mckinniburgh/GCDRI_IntroInstall)
+Day 1, 10:00 AM - 11:15 AM
+
 ### [Command line](https://github.com/mckinniburgh/intro-command-line)  
-Day 1, 11:30 AM -3:30 PM
+Day 1, 11:30 AM - 3:30 PM
 
 ### [Git](https://github.com/jojokarlin/Git_DRI_Jan_2017)  
 Day 1, 3:45 PM - 5:0 PM  
